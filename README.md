@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @linalovisa1
 - 👀 I’m interested in lots of stuff
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Computer and System Sciences @ Stockholm University
 - 💞️ I’m looking to collaborate on nothing at the moment, studying for now. 
 - 📫 How to reach me ...
 
